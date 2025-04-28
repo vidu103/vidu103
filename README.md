@@ -28,7 +28,7 @@ I love working with numbers, asking "why", and finding meaningful patterns to cr
 
 ### 📌 Current Projects
 - [Food Mayhem - A Cloud Kitchen Story](https://github.com/vidu103/Food-Mayhem---A-Cloud-Kitchen-Story) 
-  Analyzing cloud kitchen operations using Excel to create dashboards and data stories. 
+- Analyzing cloud kitchen operations using Excel to create dashboards and data stories. 
 
 ---
 
