@@ -27,9 +27,16 @@ I love working with numbers, asking "why", and finding meaningful patterns to cr
 ---
 
 ### 📌 Current Projects
-- [Food Mayhem - A Cloud Kitchen Story](https://github.com/vidu103/Food-Mayhem---A-Cloud-Kitchen-Story) 
-- Analyzing cloud kitchen operations using Excel to create dashboards and data stories. 
+- [Food Mayhem - A Cloud Kitchen Story](https://github.com/vidu103/Food-Mayhem---A-Cloud-Kitchen-Story) - Analyzing cloud kitchen operations using Excel to create dashboards and data stories.
+- [Screen Time Analysis Dashboard](https://github.com/vidu103/screentime/blob/main/README.md) - Analysing my personal screen time using excel to understand where do I spend it the most
 
 ---
 
-🌟 Let's connect, collaborate, and learn together!
+### 📚 Currently Learning
+- Advance of Power BI and Dax measures
+- Learning Basic Stats and Math for better Analysis
+- Networking and Using Social media effectively
+
+### 🌟 Let's connect -
+- [Twitter](https://x.com/VFulpadia) - Sharing my learning journey and Project
+- [LinkedIn](https://www.linkedin.com/in/vidiptafulpadia/) - Connecting with industries
